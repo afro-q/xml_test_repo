@@ -1,7 +1,7 @@
 (ns xml-test.core
   (:gen-class)
   (:require [clojure.xml :as c-xml]
-            [clojure.data.xml :as c-d-xml :refer [parseasdfsa]]
+            [clojure.data.xml :as c-d-xml :refer [parse]]
             [clojure.zip :as c-zip :refer [xml-zip]]
             [clojure.data.zip :as c-d-zip]
             [clojure.data.zip.xml :as c-d-z-xml
