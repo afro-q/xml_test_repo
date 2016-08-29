@@ -1,5 +1,6 @@
 # xml_test
 
+  Playing around with github cr workflows
 This is my first clojure application, written mostly for the experience of clojure, 
 and as part of a programming test. In my estimate it would have gone much better had 
 I actually known the programming language before-hand, and though with poor performance, 
